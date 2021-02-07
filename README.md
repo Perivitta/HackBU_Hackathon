@@ -1,4 +1,4 @@
-# Hacklytics_FinanceHacks
+# HackBU_FinanceHacks
 Hackathon Challenge 
 
 The dataset couldn't be uploaded due to the size limit in Git. So, I have attached the link to the dataset
